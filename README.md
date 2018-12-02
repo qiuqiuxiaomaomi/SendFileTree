@@ -29,3 +29,9 @@ Zero Copy零拷贝技术研究
        2、再从内核缓冲区copy至内核中socket相关的缓冲区 
        3、最后再socket相关的缓冲区copy到协议引擎
 </pre> 
+
+<pre>
+应用场景：
+       Nginx：
+            设置 sendfile on
+</pre>
