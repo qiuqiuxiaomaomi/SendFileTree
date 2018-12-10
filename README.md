@@ -35,3 +35,11 @@ Zero Copy零拷贝技术研究
        Nginx：
             设置 sendfile on
 </pre>
+
+<pre>
+Kafka中的零拷贝
+</pre>
+
+<pre>
+RocketMq中的零拷贝
+</pre>
